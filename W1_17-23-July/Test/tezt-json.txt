@@ -1,0 +1,347 @@
+array(3) {
+  [
+    "status"
+  ]=> string(7) "success"[
+    "data"
+  ]=> array(24) {
+    [
+      0
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(1) [
+        "employee_name"
+      ]=> string(11) "Tiger Nixon"[
+        "employee_salary"
+      ]=> int(320800) [
+        "employee_age"
+      ]=> int(61) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      1
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(2) [
+        "employee_name"
+      ]=> string(15) "Garrett Winters"[
+        "employee_salary"
+      ]=> int(170750) [
+        "employee_age"
+      ]=> int(63) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      2
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(3) [
+        "employee_name"
+      ]=> string(10) "Ashton Cox"[
+        "employee_salary"
+      ]=> int(86000) [
+        "employee_age"
+      ]=> int(66) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      3
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(4) [
+        "employee_name"
+      ]=> string(12) "Cedric Kelly"[
+        "employee_salary"
+      ]=> int(433060) [
+        "employee_age"
+      ]=> int(22) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      4
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(5) [
+        "employee_name"
+      ]=> string(10) "Airi Satou"[
+        "employee_salary"
+      ]=> int(162700) [
+        "employee_age"
+      ]=> int(33) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      5
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(6) [
+        "employee_name"
+      ]=> string(18) "Brielle Williamson"[
+        "employee_salary"
+      ]=> int(372000) [
+        "employee_age"
+      ]=> int(61) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      6
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(7) [
+        "employee_name"
+      ]=> string(15) "Herrod Chandler"[
+        "employee_salary"
+      ]=> int(137500) [
+        "employee_age"
+      ]=> int(59) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      7
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(8) [
+        "employee_name"
+      ]=> string(14) "Rhona Davidson"[
+        "employee_salary"
+      ]=> int(327900) [
+        "employee_age"
+      ]=> int(55) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      8
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(9) [
+        "employee_name"
+      ]=> string(13) "Colleen Hurst"[
+        "employee_salary"
+      ]=> int(205500) [
+        "employee_age"
+      ]=> int(39) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      9
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(10) [
+        "employee_name"
+      ]=> string(11) "Sonya Frost"[
+        "employee_salary"
+      ]=> int(103600) [
+        "employee_age"
+      ]=> int(23) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      10
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(11) [
+        "employee_name"
+      ]=> string(11) "Jena Gaines"[
+        "employee_salary"
+      ]=> int(90560) [
+        "employee_age"
+      ]=> int(30) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      11
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(12) [
+        "employee_name"
+      ]=> string(11) "Quinn Flynn"[
+        "employee_salary"
+      ]=> int(342000) [
+        "employee_age"
+      ]=> int(22) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      12
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(13) [
+        "employee_name"
+      ]=> string(15) "Charde Marshall"[
+        "employee_salary"
+      ]=> int(470600) [
+        "employee_age"
+      ]=> int(36) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      13
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(14) [
+        "employee_name"
+      ]=> string(13) "Haley Kennedy"[
+        "employee_salary"
+      ]=> int(313500) [
+        "employee_age"
+      ]=> int(43) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      14
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(15) [
+        "employee_name"
+      ]=> string(19) "Tatyana Fitzpatrick"[
+        "employee_salary"
+      ]=> int(385750) [
+        "employee_age"
+      ]=> int(19) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      15
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(16) [
+        "employee_name"
+      ]=> string(13) "Michael Silva"[
+        "employee_salary"
+      ]=> int(198500) [
+        "employee_age"
+      ]=> int(66) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      16
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(17) [
+        "employee_name"
+      ]=> string(9) "Paul Byrd"[
+        "employee_salary"
+      ]=> int(725000) [
+        "employee_age"
+      ]=> int(64) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      17
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(18) [
+        "employee_name"
+      ]=> string(13) "Gloria Little"[
+        "employee_salary"
+      ]=> int(237500) [
+        "employee_age"
+      ]=> int(59) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      18
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(19) [
+        "employee_name"
+      ]=> string(13) "Bradley Greer"[
+        "employee_salary"
+      ]=> int(132000) [
+        "employee_age"
+      ]=> int(41) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      19
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(20) [
+        "employee_name"
+      ]=> string(8) "Dai Rios"[
+        "employee_salary"
+      ]=> int(217500) [
+        "employee_age"
+      ]=> int(35) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      20
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(21) [
+        "employee_name"
+      ]=> string(16) "Jenette Caldwell"[
+        "employee_salary"
+      ]=> int(345000) [
+        "employee_age"
+      ]=> int(30) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      21
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(22) [
+        "employee_name"
+      ]=> string(10) "Yuri Berry"[
+        "employee_salary"
+      ]=> int(675000) [
+        "employee_age"
+      ]=> int(40) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      22
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(23) [
+        "employee_name"
+      ]=> string(12) "Caesar Vance"[
+        "employee_salary"
+      ]=> int(106450) [
+        "employee_age"
+      ]=> int(21) [
+        "profile_image"
+      ]=> string(0) ""
+    } [
+      23
+    ]=> array(5) {
+      [
+        "id"
+      ]=> int(24) [
+        "employee_name"
+      ]=> string(12) "Doris Wilder"[
+        "employee_salary"
+      ]=> int(85600) [
+        "employee_age"
+      ]=> int(23) [
+        "profile_image"
+      ]=> string(0) ""
+    }
+  } [
+    "message"
+  ]=> string(43) "Successfully! All records has been fetched."
+}
